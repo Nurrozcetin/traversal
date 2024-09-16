@@ -12,3 +12,5 @@ namespace EntityLayer.Concrete
 		public string Mail { get; set; }
 	}
 }
+
+
