@@ -17,3 +17,4 @@ C:\Users\210601024\source\repos\ProjectTraversal\BusinessLayer\obj\Debug\net8.0\
 C:\Users\210601024\source\repos\ProjectTraversal\BusinessLayer\obj\Debug\net8.0\BusinessLayer.pdb
 C:\Users\210601024\source\repos\ProjectTraversal\BusinessLayer\obj\Debug\net8.0\BusinessLayer.genruntimeconfig.cache
 C:\Users\210601024\source\repos\ProjectTraversal\BusinessLayer\obj\Debug\net8.0\ref\BusinessLayer.dll
+C:\Users\210601024\source\repos\ProjectTraversal\BusinessLayer\obj\Debug\net8.0\BusinessLayer.sourcelink.json
