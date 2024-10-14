@@ -1,0 +1,14 @@
+C:\Users\210601024\source\repos\ProjectTraversal\EntityLayer\bin\Debug\net8.0\EntityLayer.deps.json
+C:\Users\210601024\source\repos\ProjectTraversal\EntityLayer\bin\Debug\net8.0\EntityLayer.runtimeconfig.json
+C:\Users\210601024\source\repos\ProjectTraversal\EntityLayer\bin\Debug\net8.0\EntityLayer.dll
+C:\Users\210601024\source\repos\ProjectTraversal\EntityLayer\bin\Debug\net8.0\EntityLayer.pdb
+C:\Users\210601024\source\repos\ProjectTraversal\EntityLayer\obj\Debug\net8.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\210601024\source\repos\ProjectTraversal\EntityLayer\obj\Debug\net8.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\210601024\source\repos\ProjectTraversal\EntityLayer\obj\Debug\net8.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\210601024\source\repos\ProjectTraversal\EntityLayer\obj\Debug\net8.0\EntityLayer.AssemblyInfo.cs
+C:\Users\210601024\source\repos\ProjectTraversal\EntityLayer\obj\Debug\net8.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\210601024\source\repos\ProjectTraversal\EntityLayer\obj\Debug\net8.0\EntityLayer.dll
+C:\Users\210601024\source\repos\ProjectTraversal\EntityLayer\obj\Debug\net8.0\refint\EntityLayer.dll
+C:\Users\210601024\source\repos\ProjectTraversal\EntityLayer\obj\Debug\net8.0\EntityLayer.pdb
+C:\Users\210601024\source\repos\ProjectTraversal\EntityLayer\obj\Debug\net8.0\EntityLayer.genruntimeconfig.cache
+C:\Users\210601024\source\repos\ProjectTraversal\EntityLayer\obj\Debug\net8.0\ref\EntityLayer.dll
